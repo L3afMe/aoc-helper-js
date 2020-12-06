@@ -1,0 +1,6 @@
+# Misc node files
+node_modules/
+package-lock.json
+
+# WebStorm config directory
+.idea/

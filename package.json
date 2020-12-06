@@ -1,0 +1,21 @@
+{
+  "name": "aoc-helper",
+  "version": "1.0.0",
+  "author": "L3af",
+  "repository": "https://github.com/L3afMe/aoc-helper-js",
+  "description": "Helper package to interact with the Advent of Code website programmatically through JavaScript",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "example": "node example"
+  },
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "aoc",
+    "adventofcode"
+  ],
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "turndown": "^7.0.0"
+  }
+}
