@@ -1,6 +1,6 @@
 {
   "name": "aoc-helper",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "L3af",
   "repository": "https://github.com/L3afMe/aoc-helper-js",
   "description": "Helper package to interact with the Advent of Code website programmatically through JavaScript",
